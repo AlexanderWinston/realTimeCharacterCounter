@@ -35,13 +35,13 @@ body {
 
 .counterContainer p {
 	font-size: 18px;
-	color: gray;
+	color: black;
 }
 
 .totalCounter {
-	color:slateblue;
+	color:black;
 }
 
 .remaining{
-	color: orangered;
+	color: black;
 }
